@@ -1,0 +1,8 @@
+x=0;
+
+continue;
+
+return x;
+
+break;
+print x;
